@@ -12,6 +12,8 @@ for (anchor of anchors) {
     });
   }
 }
+
+
 // cards
 const tilt = document.querySelectorAll(".tilt");
 

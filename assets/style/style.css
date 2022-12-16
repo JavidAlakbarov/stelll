@@ -65,6 +65,12 @@
   margin-bottom: 6px;
   /* color: black !important; */
 }
+.navbar-color:hover {
+  color: var(--main-color) !important;
+}
+.navbar-color{
+  font-size: 20px !important;
+}
 .nav-item {
   cursor: pointer;
   padding: 0.5rem 0;
@@ -210,6 +216,8 @@
     width: 80%;
   }
 }
+/* Project */
+
 /* end about us */
 /* end main */
 /* footer */
